@@ -1,0 +1,79 @@
+header {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: black;
+}
+h1 {
+  font: arial;
+  color: rgb(92, 9, 92);
+}
+button {
+  background-color: rgb(109, 5, 109);
+  border: 5px solid:thistle;
+  border-radius: 40%;
+  height: 30px;
+  border: none;
+  color: white;
+  padding bottom: 100px;
+}
+button :hover {
+  background-color: slateblue;
+  color: violet;
+  transition: .4s;
+}
+body {
+  background-color: black;
+}
+button 1 {
+  background-color: rgb(82, 81, 83);
+  border: 5px solid gray;
+  border-radius: 40%;
+  height: 30px;
+  border: none;
+  color: white;
+}
+p {
+  display: center;
+  color: white;
+}
+div{
+  display: flex;
+}
+.container{
+  justify-content: space-around;
+  display: inline-flex;
+  display: flex;
+  height: 400px;
+  padding-left: 70px;
+  padding-right: 70px;
+  margin-top: 5%;
+  margin-left: 30px;
+  color: rgb(90, 3, 90);
+}
+h2{
+  color: goldenrod;
+  display: center;
+}
+.boxes{
+  justify-content: space-around;
+  display:inline-flex;
+  height: 200px;
+  padding-left: 30px;
+  padding-right: 30%;
+  margin-top:none;
+  margin-left: 30px;
+  border-radius: 30px;
+}
+nav{
+  display: flex;
+  color:goldenrod;
+}
+nav button{
+  margin-top: 60px;
+  margin-left: 10%;
+}
+.tabs{
+  display: center;
+  margin-top: 30px;
+  justify-content: center;
+}
